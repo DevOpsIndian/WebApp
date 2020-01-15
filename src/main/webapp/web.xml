@@ -4,4 +4,14 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+  
+  <servlet>
+  <servlet-name>abc</servlet-name>
+  <servlet-class>package1.guru_register</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>abc</servlet-name>
+  <url-pattern>/guru_register</url-pattern>
+  </servlet-mapping>
+  
 </web-app>
