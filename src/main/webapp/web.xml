@@ -11,7 +11,7 @@
   </servlet>
   <servlet-mapping>
   <servlet-name>abc</servlet-name>
-  <url-pattern>/guru_register</url-pattern>
+  <url-pattern>/WebApp/guru_register</url-pattern>
   </servlet-mapping>
   
 </web-app>
